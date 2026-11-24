@@ -1,14 +1,13 @@
 # Validateur de Robots.txt et Directives d'Exploration | TAVARDT France
 
 [![Validateur Robots.txt](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/fr/validateur-robots-txt/)
-[![Juridiction](https://img.shields.io/badge/Juridiction-France-00C853.svg)](https://ag.tavardt.com/fr/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audit technique des fichiers robots.txt, prevention des desindexations involontaires, controle d'acces des robots d'IA et conformite syntaxique.
 
-Developpe et maintenu par le pole d'indexation technique et d'architecture web de **[TAVARDT France](https://ag.tavardt.com/fr/)**.
+Developpe et maintenu par le pole d'indexation technique et d'architecture web de **TAVARDT France**.
 
----
+***
 
 ## Capacites d'Audit du Fichier Robots.txt
 
@@ -18,7 +17,7 @@ Developpe et maintenu par le pole d'indexation technique et d'architecture web d
 * **Analyse des Directives Specifiques**: Verification des balises `Allow`, `Disallow` et de la commande `Crawl-delay`.
 * **Score d'Efficacite d'Exploration**: Evaluation standardisee sur 100 points avec etapes d'assainissement technique.
 
----
+***
 
 ## Installation et Utilisation
 
@@ -33,20 +32,20 @@ python robots_validator.py https://exemple.fr
 Pour generer un rapport JSON:
 
 ```bash
-python robots_validator.py https://exemple.fr --json
+python robots_validator.py https://exemple.fr -json
 ```
 
----
+***
 
 ## Plateforme d'Audit en Ligne
 
 Pour auditer vos fichiers robots.txt en continu:
 
-* **[Validateur de Robots.txt Officiel](https://tools.tavardt.com/fr/validateur-robots-txt/)**
+* **Validateur de Robots.txt Officiel**
 * **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
 
----
+***
 
 ## Conseil en Gouvernance de Crawl et SEO
 
-Pour des strategies poussees de gestion de robots conformes aux exigences Protocole d'Exclusion des Robots et Standards W3C, contactez **[TAVARDT France](https://ag.tavardt.com/fr/contact/)**.
+Pour des strategies poussees de gestion de robots conformes aux exigences Protocole d'Exclusion des Robots et Standards W3C, contactez **TAVARDT France**.
