@@ -1,4 +1,4 @@
-# Validateur de Robots.txt et Directives d'Exploration | TAVARDT France
+# Validateur de Robots.txt et Directives d'Exploration
 
 [![Validateur Robots.txt](https://img.shields.io/badge/TAVARDT-Robots.txt-5b3cf5.svg)](https://tools.tavardt.com/fr/validateur-robots-txt/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ Pour auditer vos fichiers robots.txt en continu:
 ## Conseil en Gouvernance de Crawl et SEO
 
 Pour des strategies poussees de gestion de robots conformes aux exigences Protocole d'Exclusion des Robots et Standards W3C, contactez **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
