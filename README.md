@@ -5,7 +5,7 @@
 
 Audit technique des fichiers robots.txt, prevention des desindexations involontaires, controle d'acces des robots d'IA et conformite syntaxique.
 
-Developpe et maintenu par le pole d'indexation technique et d'architecture web de **TAVARDT France**.
+Developpe et maintenu par le pole d'indexation technique et d'architecture web de **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python robots_validator.py https://exemple.fr -json
 Pour auditer vos fichiers robots.txt en continu:
 
 * **Validateur de Robots.txt Officiel**
-* **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil en Gouvernance de Crawl et SEO
 
-Pour des strategies poussees de gestion de robots conformes aux exigences Protocole d'Exclusion des Robots et Standards W3C, contactez **TAVARDT France**.
+Pour des strategies poussees de gestion de robots conformes aux exigences Protocole d'Exclusion des Robots et Standards W3C, contactez **TAVARDT**.
 
 ***
 
